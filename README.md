@@ -15,7 +15,7 @@ After completing this exercise, you will be able to:
 ## Estimated Time
 Approximately 45-60 minutes (2-3 hours if you complete Intro. To GitHub Training)
 
-### Part 1: Getting Started with GitHub (10–20 minutes if no Intro. to GitHub Training; 1 hour 45 minutes if doing training)
+### Part 1: Getting Started with GitHub (10–20 minutes if no Intro. to GitHub Training; 2 hours if doing training)
 **Intro to GitHub Training**: Before working with repositories, branching, and collaboration, it’s helpful to review GitHub fundamentals. Complete the following Microsoft Learn module to gain hands-on experience with GitHub basics:
 
 👉 [**Introduction to GitHub (Microsoft Learn)**](https://learn.microsoft.com/en-us/training/modules/introduction-to-github)
